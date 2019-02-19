@@ -10,7 +10,6 @@ from sklearn.svm import SVC
 
 
 #creates pandas serise
-
 iris = pd.read_csv('iris.csv')
 attributes = iris[['sepal length','sepal width','petal length','petal width']]
 classes = iris['class']
