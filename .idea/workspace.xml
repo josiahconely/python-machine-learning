@@ -1,46 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7892d1f0-137a-4432-8eec-8d6362620d4d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/ICP 5/.idea/Python_Lesson5.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ICP 5/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ICP 5/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ICP 5/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ICP 5/College.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ICP 5/Iris.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ICP 5/classification/ClusterusingScikit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ICP 5/classification/Preprocessing-EDA.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ICP 5/classification/diabetes.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ICP 5/classification/knn.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ICP 5/classification/svm.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ICP 5/classification/test.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ICP 5/classification/test_preprocessed.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ICP 5/classification/train.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ICP 5/classification/train_preprocessed.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ICP 5/testi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Lesson6/.idea/Python_Lesson6.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Lesson6/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Lesson6/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Lesson6/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Lesson6/Irisdataset.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Lesson6/Python_Lesson6/.idea/Python_Lesson5.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Lesson6/Python_Lesson6/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Lesson6/Python_Lesson6/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Lesson6/Python_Lesson6/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Lesson6/Python_Lesson6/ICP6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Lesson6/Python_Lesson6/regression.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Lesson6/Python_Lesson6/train.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Lesson6/Python_Lesson6/weatherHistory.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Lesson6/WithCrossValidation/KNearestNeighbours-CrossValidation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Lesson6/WithCrossValidation/LogisticRegression-CrossValidation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Lesson6/WithoutCrossvalidation/KNearestNeighbours.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Lesson6/WithoutCrossvalidation/LogisticRegression.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Lesson6/fruit_data_with_colors.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Lesson6/sample_stocks.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Lesson6/svm.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/USA_Housing.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="7892d1f0-137a-4432-8eec-8d6362620d4d" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +14,7 @@
       <file leaf-file-name="ICP6.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Python_Lesson6/Python_Lesson6/ICP6.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="78">
+            <state relative-caret-position="1008">
               <caret line="57" column="30" lean-forward="true" selection-start-line="57" selection-start-column="30" selection-end-line="57" selection-end-column="30" />
               <folding>
                 <element signature="e#1#20#0" expanded="true" />
@@ -299,7 +260,7 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3298153" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.5273109" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.09453782" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3293011" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -569,7 +530,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Python_Lesson6/Python_Lesson6/ICP6.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
+        <state relative-caret-position="1008">
           <caret line="57" column="30" lean-forward="true" selection-start-line="57" selection-start-column="30" selection-end-line="57" selection-end-column="30" />
           <folding>
             <element signature="e#1#20#0" expanded="true" />
