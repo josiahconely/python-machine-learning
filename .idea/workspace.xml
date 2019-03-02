@@ -2,7 +2,44 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7892d1f0-137a-4432-8eec-8d6362620d4d" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/ICP 4.py" beforeDir="false" afterPath="$PROJECT_DIR$/ICP 4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ICP 5/.idea/Python_Lesson5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ICP 5/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ICP 5/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ICP 5/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ICP 5/College.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ICP 5/Iris.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ICP 5/classification/ClusterusingScikit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ICP 5/classification/Preprocessing-EDA.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ICP 5/classification/diabetes.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ICP 5/classification/knn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ICP 5/classification/svm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ICP 5/classification/test.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ICP 5/classification/test_preprocessed.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ICP 5/classification/train.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ICP 5/classification/train_preprocessed.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ICP 5/testi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Lesson6/.idea/Python_Lesson6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Lesson6/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Lesson6/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Lesson6/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Lesson6/Irisdataset.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Lesson6/Python_Lesson6/.idea/Python_Lesson5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Lesson6/Python_Lesson6/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Lesson6/Python_Lesson6/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Lesson6/Python_Lesson6/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Lesson6/Python_Lesson6/ICP6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Lesson6/Python_Lesson6/regression.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Lesson6/Python_Lesson6/train.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Lesson6/Python_Lesson6/weatherHistory.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Lesson6/WithCrossValidation/KNearestNeighbours-CrossValidation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Lesson6/WithCrossValidation/LogisticRegression-CrossValidation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Lesson6/WithoutCrossvalidation/KNearestNeighbours.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Lesson6/WithoutCrossvalidation/LogisticRegression.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Lesson6/fruit_data_with_colors.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Lesson6/sample_stocks.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Lesson6/svm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/USA_Housing.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,36 +49,24 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="ICP 4.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ICP 4.py">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="ICP6.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Python_Lesson6/Python_Lesson6/ICP6.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="58" column="57" lean-forward="true" selection-start-line="58" selection-start-column="57" selection-end-line="58" selection-end-column="57" />
+            <state relative-caret-position="78">
+              <caret line="57" column="30" lean-forward="true" selection-start-line="57" selection-start-column="30" selection-end-line="57" selection-end-column="30" />
               <folding>
-                <element signature="e#0#31#0" expanded="true" />
+                <element signature="e#1#20#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="iris.csv" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/iris.csv">
+      <file leaf-file-name="weatherHistory.csv" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python_Lesson6/Python_Lesson6/weatherHistory.csv">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="28">
-              <caret line="132" column="28" selection-start-line="132" selection-start-column="28" selection-end-line="132" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Irisdataset.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python_Lesson4/Python_Lesson4/Irisdataset.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="7" selection-start-line="7" selection-end-line="10" selection-end-column="37" />
-              <folding>
-                <element signature="e#119#150#0" expanded="true" />
-              </folding>
+            <state>
+              <caret column="35" lean-forward="true" selection-start-column="20" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -62,13 +87,19 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/ICP 4.py" />
+        <option value="$PROJECT_DIR$/ICP 5/ClusterusingScikit.py" />
+        <option value="$PROJECT_DIR$/ICP 5/classification/Preprocessing-EDA.py" />
+        <option value="$PROJECT_DIR$/ICP 5/classification/ClusterusingScikit.py" />
+        <option value="$PROJECT_DIR$/ICP6.py" />
+        <option value="$PROJECT_DIR$/Python_Lesson6/Python_Lesson6/ICP6.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-10" />
-    <option name="width" value="1622" />
-    <option name="height" value="1732" />
+    <option name="x" value="510" />
+    <option name="y" value="94" />
+    <option name="width" value="2462" />
+    <option name="height" value="1210" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -85,6 +116,22 @@
             </path>
             <path>
               <item name="python-machine-learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python-machine-learning" type="462c0819:PsiDirectoryNode" />
+              <item name="ICP 5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python-machine-learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python-machine-learning" type="462c0819:PsiDirectoryNode" />
+              <item name="Python_Lesson6" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python-machine-learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python-machine-learning" type="462c0819:PsiDirectoryNode" />
+              <item name="Python_Lesson6" type="462c0819:PsiDirectoryNode" />
+              <item name="Python_Lesson6" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python-machine-learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
             </path>
           </expand>
@@ -95,10 +142,16 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Josiah's Laptop\Documents\GitHub\python-machine-learning" />
+      <recent name="C:\Users\Josiah's Laptop\Documents\GitHub\python-machine-learning\ICP 5" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Josiah's Laptop\Documents\GitHub\python-machine-learning\Python_Lesson6\Python_Lesson6" />
+      <recent name="C:\Users\Josiah's Laptop\Documents\GitHub\python-machine-learning\ICP 5\classification" />
       <recent name="C:\Users\Josiah's Laptop\Documents\GitHub\python-machine-learning" />
     </key>
   </component>
@@ -114,8 +167,44 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ICP 4">
-    <configuration name="ICP 4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.ICP6 (1)">
+    <configuration name="ClusterusingScikit" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python-machine-learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ICP 5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\Josiah's Laptop\Documents\GitHub\python-machine-learning\ICP 5\classification\ClusterusingScikit.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="ICP6 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python-machine-learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Lesson6/Python_Lesson6" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Lesson6/Python_Lesson6/ICP6.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="ICP6" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-machine-learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -127,13 +216,13 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ICP 4.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Josiah's Laptop\Documents\GitHub\python-machine-learning\Python_Lesson6\Python_Lesson6\ICP6.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Irisdataset" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Preprocessing-EDA" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-machine-learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -141,24 +230,48 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Lesson4/Python_Lesson4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ICP 5/classification" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Lesson4/Python_Lesson4/Irisdataset.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ICP 5/classification/Preprocessing-EDA.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="knn" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python-machine-learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ICP 5/classification" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ICP 5/classification/knn.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.Irisdataset" />
-      <item itemvalue="Python.ICP 4" />
+      <item itemvalue="Python.ClusterusingScikit" />
+      <item itemvalue="Python.Preprocessing-EDA" />
+      <item itemvalue="Python.knn" />
+      <item itemvalue="Python.ICP6" />
+      <item itemvalue="Python.ICP6 (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ICP 4" />
-        <item itemvalue="Python.Irisdataset" />
+        <item itemvalue="Python.ICP6 (1)" />
+        <item itemvalue="Python.ICP6" />
+        <item itemvalue="Python.ClusterusingScikit" />
+        <item itemvalue="Python.Preprocessing-EDA" />
+        <item itemvalue="Python.knn" />
       </list>
     </recent_temporary>
   </component>
@@ -176,43 +289,158 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="-6" width="1613" height="873" extended-state="6" />
+    <frame x="255" y="47" width="1231" height="605" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.012507818" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21227622" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="R Packages" />
-      <window_info anchor="right" id="R Graphics" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.59102905" />
-      <window_info anchor="bottom" id="Version Control" weight="0.3298153" />
-      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="right" id="R Packages" order="3" />
+      <window_info anchor="right" id="R Graphics" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3298153" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.5273109" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.025094103" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3293011" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39919356" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.47715053" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16012862" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="R Graphics" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="R Packages" order="4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3293011" />
+      <window_info anchor="bottom" id="Python Console" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.3298153" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ICP 4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="52" selection-start-line="5" selection-start-column="52" selection-end-line="5" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ICP 5/testi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="11" column="60" lean-forward="true" selection-start-line="11" selection-start-column="60" selection-end-line="11" selection-end-column="60" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ICP 5/classification/Preprocessing-EDA.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="45" column="33" selection-start-line="45" selection-start-column="30" selection-end-line="45" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ICP 5/classification/knn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ICP 5/classification/ClusterusingScikit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ICP 4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="58" column="57" selection-start-line="58" selection-start-column="57" selection-end-line="58" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iris.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2244">
+          <caret line="132" column="28" selection-start-line="132" selection-start-column="28" selection-end-line="132" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_Lesson4/Python_Lesson4/Irisdataset.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="10" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ICP 4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="986">
+          <caret line="58" column="57" lean-forward="true" selection-start-line="58" selection-start-column="57" selection-end-line="58" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iris.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2244">
+          <caret line="132" column="28" selection-start-line="132" selection-start-column="28" selection-end-line="132" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_Lesson4/Python_Lesson4/Irisdataset.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="10" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Python_Lesson4/Python_Lesson4/Irisdataset.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="7" selection-start-line="7" selection-end-line="10" selection-end-column="37" />
-          <folding>
-            <element signature="e#119#150#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -227,35 +455,124 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Python_Lesson4/Python_Lesson4/Irisdataset.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
+        <state relative-caret-position="119">
           <caret line="7" selection-start-line="7" selection-end-line="10" selection-end-column="37" />
-          <folding>
-            <element signature="e#119#150#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/iris.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28">
+        <state relative-caret-position="2244">
           <caret line="132" column="28" selection-start-line="132" selection-start-column="28" selection-end-line="132" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ICP 5/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ICP 5/classification/train.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ICP 5/College.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="189" lean-forward="true" selection-start-column="189" selection-end-column="189" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ICP 5/classification/svm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ICP 5/classification/knn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_Lesson6/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/USA_Housing.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="121" selection-end-column="121" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ICP 5/classification/ClusterusingScikit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="15" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ICP 5/classification/Preprocessing-EDA.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="45" column="33" selection-start-line="45" selection-start-column="30" selection-end-line="45" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ICP 5/testi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="60" selection-start-line="11" selection-start-column="60" selection-end-line="11" selection-end-column="60" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ICP 4.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="58" column="57" lean-forward="true" selection-start-line="58" selection-start-column="57" selection-end-line="58" selection-end-column="57" />
+        <state relative-caret-position="17">
+          <caret line="5" column="52" selection-start-line="5" selection-start-column="52" selection-end-line="5" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ICP 5/classification/test.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ICP 5/classification/train_preprocessed.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_Lesson6/Python_Lesson6/train.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_Lesson6/fruit_data_with_colors.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_Lesson6/Python_Lesson6/weatherHistory.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="35" lean-forward="true" selection-start-column="20" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_Lesson6/Python_Lesson6/ICP6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="57" column="30" lean-forward="true" selection-start-line="57" selection-start-column="30" selection-end-line="57" selection-end-column="30" />
           <folding>
-            <element signature="e#0#31#0" expanded="true" />
+            <element signature="e#1#20#0" expanded="true" />
           </folding>
         </state>
       </provider>
