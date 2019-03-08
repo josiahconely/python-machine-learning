@@ -14,8 +14,8 @@
       <file leaf-file-name="ICP6.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Python_Lesson6/Python_Lesson6/ICP6.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="35" column="40" lean-forward="true" selection-start-line="35" selection-start-column="40" selection-end-line="35" selection-end-column="40" />
+            <state relative-caret-position="96">
+              <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
               <folding>
                 <element signature="e#1#20#0" expanded="true" />
               </folding>
@@ -56,7 +56,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="510" />
     <option name="y" value="94" />
     <option name="width" value="2462" />
@@ -251,7 +251,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="255" y="47" width="1231" height="605" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21227622" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -260,7 +259,7 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3298153" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.09453782" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.64915967" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3293011" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -530,8 +529,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Python_Lesson6/Python_Lesson6/ICP6.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="35" column="40" lean-forward="true" selection-start-line="35" selection-start-column="40" selection-end-line="35" selection-end-column="40" />
+        <state relative-caret-position="96">
+          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
           <folding>
             <element signature="e#1#20#0" expanded="true" />
           </folding>
