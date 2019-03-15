@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7892d1f0-137a-4432-8eec-8d6362620d4d" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/IPC 8/DeepLearning_Lesson1/ICP 8 part 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/IPC 8/DeepLearning_Lesson1/ICP 8 part 1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IPC 8/DeepLearning_Lesson1/ICP 8 part 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/IPC 8/DeepLearning_Lesson1/ICP 8 part 2.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,11 +13,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ICP 8 part 2.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ICP 8 part 2.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/IPC 8/DeepLearning_Lesson1/ICP 8 part 2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="251">
-              <caret line="37" column="4" selection-start-line="37" selection-start-column="4" selection-end-line="37" selection-end-column="4" />
+            <state relative-caret-position="293">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -25,11 +25,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ICP 8 part 1.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ICP 8 part 1.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/IPC 8/DeepLearning_Lesson1/ICP 8 part 1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+            <state relative-caret-position="212">
+              <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -76,8 +76,8 @@
         <option value="$PROJECT_DIR$/Lab 2 Part 3.py" />
         <option value="$PROJECT_DIR$/IPC 8/DeepLearning_Lesson1/basicOP.py" />
         <option value="$PROJECT_DIR$/IPC 8/DeepLearning_Lesson1/ICP 8.py" />
-        <option value="$PROJECT_DIR$/IPC 8/DeepLearning_Lesson1/ICP 8 part 2.py" />
         <option value="$PROJECT_DIR$/IPC 8/DeepLearning_Lesson1/ICP 8 part 1.py" />
+        <option value="$PROJECT_DIR$/IPC 8/DeepLearning_Lesson1/ICP 8 part 2.py" />
       </list>
     </option>
   </component>
@@ -154,7 +154,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ICP 8 part 1">
+  <component name="RunManager" selected="Python.ICP 8 part 2">
     <configuration name="ICP 8 part 1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-machine-learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -254,8 +254,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ICP 8 part 1" />
         <item itemvalue="Python.ICP 8 part 2" />
+        <item itemvalue="Python.ICP 8 part 1" />
         <item itemvalue="Python.basicOP" />
         <item itemvalue="Python.Lab 2 Part 3" />
         <item itemvalue="Python.Lab 2 part 2" />
@@ -277,6 +277,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1613" height="873" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16848874" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -626,20 +627,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/IPC 8/DeepLearning_Lesson1/ICP 8 part 2.py">
+    <entry file="file://$PROJECT_DIR$/IPC 8/DeepLearning_Lesson1/ICP 8 part 1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="37" column="4" selection-start-line="37" selection-start-column="4" selection-end-line="37" selection-end-column="4" />
+        <state relative-caret-position="212">
+          <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/IPC 8/DeepLearning_Lesson1/ICP 8 part 1.py">
+    <entry file="file://$PROJECT_DIR$/IPC 8/DeepLearning_Lesson1/ICP 8 part 2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        <state relative-caret-position="293">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>

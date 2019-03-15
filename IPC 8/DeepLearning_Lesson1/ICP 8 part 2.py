@@ -18,10 +18,7 @@ from sklearn.preprocessing import LabelEncoder
 le = LabelEncoder()
 le.fit(dataset['diagnosis'])
 dataset['diagnosis']= le.transform(dataset['diagnosis'])
-
-
 dataset = dataset.values
-
 
 import numpy as np
 X_train, X_test, Y_train, Y_test = train_test_split(dataset[:,2:31], dataset[:,1],
@@ -29,8 +26,6 @@ X_train, X_test, Y_train, Y_test = train_test_split(dataset[:,2:31], dataset[:,1
 #np.random.seed(155)
 my_first_nn = Sequential() # create model
 my_first_nn.add(Dense(40, input_dim=29, activation='relu')) # hidden layer
-my_first_nn.add(Dense(40, activation='sigmoid')) # hidden layer
-my_first_nn.add(Dense(40, activation='sigmoid')) # hidden layer
 my_first_nn.add(Dense(40, activation='sigmoid')) # hidden layer
 my_first_nn.add(Dense(1, activation='sigmoid')) # output layer
 my_first_nn.compile(loss='binary_crossentropy', optimizer='adam',metrics=['accuracy'])
