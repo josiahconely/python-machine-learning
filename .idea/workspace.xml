@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7892d1f0-137a-4432-8eec-8d6362620d4d" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/IPC 8/DeepLearning_Lesson1/ICP 8 part 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/IPC 8/DeepLearning_Lesson1/ICP 8 part 2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,37 +13,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ICP 8 part 2.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/IPC 8/DeepLearning_Lesson1/ICP 8 part 2.py">
+      <file leaf-file-name="regression-keras.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ICP 9/DeepLearning_Lesson2/regression-keras.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="293">
-              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+            <state relative-caret-position="203">
+              <caret line="93" column="44" selection-start-line="93" selection-start-column="33" selection-end-line="93" selection-end-column="44" />
               <folding>
-                <element signature="e#0#13#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ICP 8 part 1.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/IPC 8/DeepLearning_Lesson1/ICP 8 part 1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="212">
-              <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
-              <folding>
-                <element signature="e#0#13#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ICP6.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python_Lesson6/Python_Lesson6/ICP6.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-672">
-              <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
-              <folding>
-                <element signature="e#0#19#0" expanded="true" />
+                <element signature="e#0#37#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -78,6 +54,7 @@
         <option value="$PROJECT_DIR$/IPC 8/DeepLearning_Lesson1/ICP 8.py" />
         <option value="$PROJECT_DIR$/IPC 8/DeepLearning_Lesson1/ICP 8 part 1.py" />
         <option value="$PROJECT_DIR$/IPC 8/DeepLearning_Lesson1/ICP 8 part 2.py" />
+        <option value="$PROJECT_DIR$/ICP 9/DeepLearning_Lesson2/regression-keras.py" />
       </list>
     </option>
   </component>
@@ -91,13 +68,23 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="python-machine-learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="python-machine-learning" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python-machine-learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python-machine-learning" type="462c0819:PsiDirectoryNode" />
+              <item name="ICP 9" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python-machine-learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python-machine-learning" type="462c0819:PsiDirectoryNode" />
+              <item name="ICP 9" type="462c0819:PsiDirectoryNode" />
+              <item name="DeepLearning_Lesson2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python-machine-learning" type="b2602c69:ProjectViewProjectNode" />
@@ -125,6 +112,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -154,7 +142,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ICP 8 part 2">
+  <component name="RunManager" selected="Python.regression-keras">
     <configuration name="ICP 8 part 1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-machine-learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -209,24 +197,6 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Lab 2 part 2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python-machine-learning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab 2 part 2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <configuration name="basicOP" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-machine-learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -245,20 +215,38 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="regression-keras" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python-machine-learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ICP 9/DeepLearning_Lesson2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ICP 9/DeepLearning_Lesson2/regression-keras.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list>
-      <item itemvalue="Python.Lab 2 part 2" />
       <item itemvalue="Python.Lab 2 Part 3" />
       <item itemvalue="Python.basicOP" />
       <item itemvalue="Python.ICP 8 part 1" />
       <item itemvalue="Python.ICP 8 part 2" />
+      <item itemvalue="Python.regression-keras" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.regression-keras" />
         <item itemvalue="Python.ICP 8 part 2" />
         <item itemvalue="Python.ICP 8 part 1" />
         <item itemvalue="Python.basicOP" />
         <item itemvalue="Python.Lab 2 Part 3" />
-        <item itemvalue="Python.Lab 2 part 2" />
       </list>
     </recent_temporary>
   </component>
@@ -279,14 +267,14 @@
     <frame x="-6" y="-6" width="1613" height="873" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16848874" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17041801" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="R Packages" order="3" />
       <window_info anchor="right" id="R Graphics" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50032157" side_tool="true" weight="0.36827958" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3298153" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49967846" visible="true" weight="0.3360215" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49967846" visible="true" weight="0.20698924" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3293011" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -300,25 +288,25 @@
       <window_info anchor="bottom" id="Find" order="1" />
     </layout>
     <layout-to-restore>
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49967846" visible="true" weight="0.36827958" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32990354" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="R Graphics" order="3" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.3298153" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49967846" visible="true" weight="0.36827958" />
       <window_info anchor="right" id="R Packages" order="4" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39919356" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3293011" />
-      <window_info anchor="bottom" id="Python Console" order="8" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.3298153" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50032157" side_tool="true" visible="true" weight="0.36827958" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Python Console" order="8" />
     </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -328,7 +316,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Python Lesson7/Python_Lesson7/ICP 7.py</url>
+          <url />
           <line>59</line>
         </line-breakpoint>
       </breakpoints>
@@ -343,13 +331,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ICP 5/classification/Preprocessing-EDA.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="45" column="33" selection-start-line="45" selection-start-column="30" selection-end-line="45" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ICP 5/classification/knn.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -570,9 +551,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="83">
           <caret line="12" column="27" lean-forward="true" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -580,9 +558,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="112">
           <caret line="76" column="13" selection-start-line="76" selection-start-column="7" selection-end-line="76" selection-end-column="13" />
-          <folding>
-            <element signature="e#1#40#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -590,9 +565,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="377">
           <caret line="45" column="15" selection-start-line="45" selection-start-column="15" selection-end-line="45" selection-end-column="15" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -617,19 +589,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python_Lesson6/Python_Lesson6/ICP6.py">
+    <entry file="file://$PROJECT_DIR$/IPC 8/DeepLearning_Lesson1/ICP 8 part 2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-672">
-          <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+        <state relative-caret-position="546">
+          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
           <folding>
-            <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#0#13#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/IPC 8/DeepLearning_Lesson1/ICP 8 part 1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
+        <state relative-caret-position="441">
           <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
@@ -637,12 +609,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/IPC 8/DeepLearning_Lesson1/ICP 8 part 2.py">
+    <entry file="file://$PROJECT_DIR$/Python_Lesson6/Python_Lesson6/ICP6.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="21">
+          <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
           <folding>
-            <element signature="e#0#13#0" expanded="true" />
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ICP 9/DeepLearning_Lesson2/regression-keras.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="93" column="44" selection-start-line="93" selection-start-column="33" selection-end-line="93" selection-end-column="44" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
           </folding>
         </state>
       </provider>
