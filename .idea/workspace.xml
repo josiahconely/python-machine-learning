@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7892d1f0-137a-4432-8eec-8d6362620d4d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/DL ICP 5/DeepLearning_SourceCode5.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DL ICP 5/DeepLearning_SourceCode5/DeepLearning_SourceCode5/SentimentAnalysis2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DL ICP 5/DeepLearning_SourceCode5/DeepLearning_SourceCode5/sentimentAnalysisPart1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DL ICP 5/DeepLearning_SourceCode5/DeepLearning_SourceCode5/sentimentAnalysisPart3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab 3and 4/sentiment-analysis-on-movie-reviews.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab 3and 4/sentiment_kernel.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DL ICP 5/DeepLearning_SourceCode5/DeepLearning_SourceCode5/model_SA.h5" beforeDir="false" afterPath="$PROJECT_DIR$/DL ICP 5/DeepLearning_SourceCode5/DeepLearning_SourceCode5/model_SA.h5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DL ICP 5/DeepLearning_SourceCode5/DeepLearning_SourceCode5/model_SA.pckl" beforeDir="false" afterPath="$PROJECT_DIR$/DL ICP 5/DeepLearning_SourceCode5/DeepLearning_SourceCode5/model_SA.pckl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DL ICP 5/DeepLearning_SourceCode5/DeepLearning_SourceCode5/sentimentAnalysis.py" beforeDir="false" afterPath="$PROJECT_DIR$/DL ICP 5/DeepLearning_SourceCode5/DeepLearning_SourceCode5/sentimentAnalysis.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,32 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="sentimentAnalysis.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="sentimentAnalysis.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DL ICP 5/DeepLearning_SourceCode5/DeepLearning_SourceCode5/sentimentAnalysis.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="1" selection-start-column="1" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SentimentAnalysis2.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DL ICP 5/DeepLearning_SourceCode5/DeepLearning_SourceCode5/SentimentAnalysis2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
-              <caret line="60" selection-start-line="60" selection-end-line="60" />
-              <folding>
-                <element signature="e#0#35#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sentimentAnalysisPart3.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DL ICP 5/DeepLearning_SourceCode5/DeepLearning_SourceCode5/sentimentAnalysisPart3.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+            <state relative-caret-position="92">
+              <caret line="42" column="65" lean-forward="true" selection-start-line="42" selection-start-column="65" selection-end-line="42" selection-end-column="65" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
               </folding>
@@ -55,8 +30,32 @@
       <file leaf-file-name="sentimentAnalysisPart1.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DL ICP 5/DeepLearning_SourceCode5/DeepLearning_SourceCode5/sentimentAnalysisPart1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="27">
-              <caret line="41" column="27" selection-start-line="41" selection-start-column="27" selection-end-line="41" selection-end-column="27" />
+            <state relative-caret-position="279">
+              <caret line="65" column="35" selection-start-line="65" selection-start-column="28" selection-end-line="65" selection-end-column="35" />
+              <folding>
+                <element signature="e#0#35#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SentimentAnalysis2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DL ICP 5/DeepLearning_SourceCode5/DeepLearning_SourceCode5/SentimentAnalysis2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="63" column="14" selection-start-line="63" selection-start-column="13" selection-end-line="63" selection-end-column="14" />
+              <folding>
+                <element signature="e#0#35#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sentimentAnalysisPart3.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DL ICP 5/DeepLearning_SourceCode5/DeepLearning_SourceCode5/sentimentAnalysisPart3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="155">
+              <caret line="60" column="33" selection-start-line="60" selection-start-column="26" selection-end-line="60" selection-end-column="33" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
               </folding>
@@ -184,7 +183,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.sentimentAnalysis">
+  <component name="RunManager" selected="Python.sentimentAnalysisPart3">
     <configuration name="SentimentAnalysis2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-machine-learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -284,11 +283,11 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.sentimentAnalysis" />
         <item itemvalue="Python.sentimentAnalysisPart3" />
         <item itemvalue="Python.SentimentAnalysis2" />
-        <item itemvalue="Python.autoencoder" />
         <item itemvalue="Python.sentimentAnalysisPart1" />
+        <item itemvalue="Python.sentimentAnalysis" />
+        <item itemvalue="Python.autoencoder" />
       </list>
     </recent_temporary>
   </component>
@@ -307,16 +306,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1613" height="873" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22700964" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="R Packages" order="3" />
       <window_info anchor="right" id="R Graphics" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.19035369" side_tool="true" visible="true" weight="0.75537634" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.19099678" side_tool="true" visible="true" weight="0.4408602" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3298153" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.8096463" visible="true" weight="0.75537634" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.80900323" visible="true" weight="0.4408602" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3293011" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -620,10 +618,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/DL ICP 5/DeepLearning_SourceCode5/DeepLearning_SourceCode5/spam.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-441" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DL ICP 5/DeepLearning_SourceCode5/DeepLearning_SourceCode5/sentimentAnalysis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="42" column="65" lean-forward="true" selection-start-line="42" selection-start-column="65" selection-end-line="42" selection-end-column="65" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/DL ICP 5/DeepLearning_SourceCode5/DeepLearning_SourceCode5/sentimentAnalysisPart1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="41" column="27" selection-start-line="41" selection-start-column="27" selection-end-line="41" selection-end-column="27" />
+        <state relative-caret-position="279">
+          <caret line="65" column="35" selection-start-line="65" selection-start-column="28" selection-end-line="65" selection-end-column="35" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
           </folding>
@@ -632,33 +645,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DL ICP 5/DeepLearning_SourceCode5/DeepLearning_SourceCode5/SentimentAnalysis2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="60" selection-start-line="60" selection-end-line="60" />
+        <state relative-caret-position="176">
+          <caret line="63" column="14" selection-start-line="63" selection-start-column="13" selection-end-line="63" selection-end-column="14" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
           </folding>
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DL ICP 5/DeepLearning_SourceCode5/DeepLearning_SourceCode5/spam.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-441" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DL ICP 5/DeepLearning_SourceCode5/DeepLearning_SourceCode5/sentimentAnalysisPart3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+        <state relative-caret-position="155">
+          <caret line="60" column="33" selection-start-line="60" selection-start-column="26" selection-end-line="60" selection-end-column="33" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DL ICP 5/DeepLearning_SourceCode5/DeepLearning_SourceCode5/sentimentAnalysis.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="1" selection-start-column="1" selection-end-column="1" />
         </state>
       </provider>
     </entry>
