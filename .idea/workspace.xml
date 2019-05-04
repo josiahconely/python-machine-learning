@@ -2,6 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7892d1f0-137a-4432-8eec-8d6362620d4d" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/DL ICP 5/DeepLearning_SourceCode5.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DL ICP 5/DeepLearning_SourceCode5/DeepLearning_SourceCode5/SentimentAnalysis2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DL ICP 5/DeepLearning_SourceCode5/DeepLearning_SourceCode5/sentimentAnalysisPart1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DL ICP 5/DeepLearning_SourceCode5/DeepLearning_SourceCode5/sentimentAnalysisPart3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab 3and 4/sentiment-analysis-on-movie-reviews.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab 3and 4/sentiment_kernel.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,13 +19,46 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="regression-keras.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ICP 9/DeepLearning_Lesson2/regression-keras.py">
+      <file leaf-file-name="sentimentAnalysis.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DL ICP 5/DeepLearning_SourceCode5/DeepLearning_SourceCode5/sentimentAnalysis.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="203">
-              <caret line="93" column="44" selection-start-line="93" selection-start-column="33" selection-end-line="93" selection-end-column="44" />
+            <state>
+              <caret column="1" selection-start-column="1" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SentimentAnalysis2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DL ICP 5/DeepLearning_SourceCode5/DeepLearning_SourceCode5/SentimentAnalysis2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="63">
+              <caret line="60" selection-start-line="60" selection-end-line="60" />
               <folding>
-                <element signature="e#0#37#0" expanded="true" />
+                <element signature="e#0#35#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sentimentAnalysisPart3.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DL ICP 5/DeepLearning_SourceCode5/DeepLearning_SourceCode5/sentimentAnalysisPart3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+              <folding>
+                <element signature="e#0#35#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sentimentAnalysisPart1.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DL ICP 5/DeepLearning_SourceCode5/DeepLearning_SourceCode5/sentimentAnalysisPart1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="27">
+              <caret line="41" column="27" selection-start-line="41" selection-start-column="27" selection-end-line="41" selection-end-column="27" />
+              <folding>
+                <element signature="e#0#35#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -55,13 +94,23 @@
         <option value="$PROJECT_DIR$/IPC 8/DeepLearning_Lesson1/ICP 8 part 1.py" />
         <option value="$PROJECT_DIR$/IPC 8/DeepLearning_Lesson1/ICP 8 part 2.py" />
         <option value="$PROJECT_DIR$/ICP 9/DeepLearning_Lesson2/regression-keras.py" />
+        <option value="$PROJECT_DIR$/ICP 9/DeepLearning_Lesson2/ICP 9.py" />
+        <option value="$PROJECT_DIR$/Lesson 4/DeepLearning_Lesson4/image_classification.py" />
+        <option value="$PROJECT_DIR$/Lab 3and 4/Lab 3.py" />
+        <option value="$PROJECT_DIR$/Lab 3and 4/sentiment_kernel.py" />
+        <option value="$PROJECT_DIR$/DL ICP 5/DeepLearning_SourceCode5/DeepLearning_SourceCode5/sentimentAnalysisPart1.py" />
+        <option value="$PROJECT_DIR$/DL ICP 6/DeepLearning_SourceCode6/DeepLearning_SourceCode6/autoencoder.py" />
+        <option value="$PROJECT_DIR$/DL ICP 5/DeepLearning_SourceCode5/DeepLearning_SourceCode5/SentimentAnalysis2.py" />
+        <option value="$PROJECT_DIR$/DL ICP 5/DeepLearning_SourceCode5/DeepLearning_SourceCode5/sentimentAnalysisPart2.py" />
+        <option value="$PROJECT_DIR$/DL ICP 5/DeepLearning_SourceCode5/DeepLearning_SourceCode5/sentimentAnalysisPart3.py" />
+        <option value="$PROJECT_DIR$/DL ICP 5/DeepLearning_SourceCode5/DeepLearning_SourceCode5/sentimentAnalysis.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-14" />
-    <option name="width" value="1314" />
-    <option name="height" value="1048" />
+    <option name="x" value="-10" />
+    <option name="width" value="1622" />
+    <option name="height" value="1732" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -78,35 +127,25 @@
             <path>
               <item name="python-machine-learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="python-machine-learning" type="462c0819:PsiDirectoryNode" />
-              <item name="ICP 9" type="462c0819:PsiDirectoryNode" />
+              <item name="DL ICP 5" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python-machine-learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="python-machine-learning" type="462c0819:PsiDirectoryNode" />
-              <item name="ICP 9" type="462c0819:PsiDirectoryNode" />
-              <item name="DeepLearning_Lesson2" type="462c0819:PsiDirectoryNode" />
+              <item name="DL ICP 5" type="462c0819:PsiDirectoryNode" />
+              <item name="DeepLearning_SourceCode5" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python-machine-learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="python-machine-learning" type="462c0819:PsiDirectoryNode" />
-              <item name="IPC 8" type="462c0819:PsiDirectoryNode" />
+              <item name="DL ICP 5" type="462c0819:PsiDirectoryNode" />
+              <item name="DeepLearning_SourceCode5" type="462c0819:PsiDirectoryNode" />
+              <item name="DeepLearning_SourceCode5" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python-machine-learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="python-machine-learning" type="462c0819:PsiDirectoryNode" />
-              <item name="IPC 8" type="462c0819:PsiDirectoryNode" />
-              <item name="DeepLearning_Lesson1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python-machine-learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python-machine-learning" type="462c0819:PsiDirectoryNode" />
-              <item name="Python_Lesson6" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python-machine-learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python-machine-learning" type="462c0819:PsiDirectoryNode" />
-              <item name="Python_Lesson6" type="462c0819:PsiDirectoryNode" />
-              <item name="Python_Lesson6" type="462c0819:PsiDirectoryNode" />
+              <item name="wiki photos" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -120,14 +159,17 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Josiah's Laptop\Documents\GitHub\python-machine-learning\Python_Lesson6\Python_Lesson6" />
-      <recent name="C:\Users\Josiah's Laptop\Documents\GitHub\python-machine-learning\ICP 5\classification" />
-      <recent name="C:\Users\Josiah's Laptop\Documents\GitHub\python-machine-learning" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Josiah's Laptop\Documents\GitHub\python-machine-learning\DL ICP 5\DeepLearning_SourceCode5\DeepLearning_SourceCode5" />
+      <recent name="C:\Users\Josiah's Laptop\Documents\GitHub\python-machine-learning\DL ICP 5" />
+      <recent name="C:\Users\Josiah's Laptop\Documents\GitHub\python-machine-learning\Lab 3and 4" />
       <recent name="C:\Users\Josiah's Laptop\Documents\GitHub\python-machine-learning" />
       <recent name="C:\Users\Josiah's Laptop\Documents\GitHub\python-machine-learning\ICP 5" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Josiah's Laptop\Documents\GitHub\python-machine-learning" />
+      <recent name="C:\Users\Josiah's Laptop\Documents\GitHub\python-machine-learning\Python_Lesson6\Python_Lesson6" />
+      <recent name="C:\Users\Josiah's Laptop\Documents\GitHub\python-machine-learning\ICP 5\classification" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -142,8 +184,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.regression-keras">
-    <configuration name="ICP 8 part 1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.sentimentAnalysis">
+    <configuration name="SentimentAnalysis2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-machine-learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -151,17 +193,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/IPC 8/DeepLearning_Lesson1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DL ICP 5/DeepLearning_SourceCode5/DeepLearning_SourceCode5" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/IPC 8/DeepLearning_Lesson1/ICP 8 part 1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DL ICP 5/DeepLearning_SourceCode5/DeepLearning_SourceCode5/SentimentAnalysis2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="ICP 8 part 2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="autoencoder" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-machine-learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -169,17 +211,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/IPC 8/DeepLearning_Lesson1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DL ICP 6/DeepLearning_SourceCode6/DeepLearning_SourceCode6" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/IPC 8/DeepLearning_Lesson1/ICP 8 part 2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DL ICP 6/DeepLearning_SourceCode6/DeepLearning_SourceCode6/autoencoder.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Lab 2 Part 3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="sentimentAnalysis" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-machine-learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -187,17 +229,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DL ICP 5/DeepLearning_SourceCode5/DeepLearning_SourceCode5" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab 2 Part 3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DL ICP 5/DeepLearning_SourceCode5/DeepLearning_SourceCode5/sentimentAnalysis.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="basicOP" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="sentimentAnalysisPart1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-machine-learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -205,17 +247,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/IPC 8/DeepLearning_Lesson1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DL ICP 5/DeepLearning_SourceCode5/DeepLearning_SourceCode5" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/IPC 8/DeepLearning_Lesson1/basicOP.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DL ICP 5/DeepLearning_SourceCode5/DeepLearning_SourceCode5/sentimentAnalysisPart1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="regression-keras" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="sentimentAnalysisPart3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-machine-learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -223,30 +265,30 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ICP 9/DeepLearning_Lesson2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DL ICP 5/DeepLearning_SourceCode5/DeepLearning_SourceCode5" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ICP 9/DeepLearning_Lesson2/regression-keras.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DL ICP 5/DeepLearning_SourceCode5/DeepLearning_SourceCode5/sentimentAnalysisPart3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.Lab 2 Part 3" />
-      <item itemvalue="Python.basicOP" />
-      <item itemvalue="Python.ICP 8 part 1" />
-      <item itemvalue="Python.ICP 8 part 2" />
-      <item itemvalue="Python.regression-keras" />
+      <item itemvalue="Python.sentimentAnalysis" />
+      <item itemvalue="Python.sentimentAnalysisPart1" />
+      <item itemvalue="Python.autoencoder" />
+      <item itemvalue="Python.SentimentAnalysis2" />
+      <item itemvalue="Python.sentimentAnalysisPart3" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.regression-keras" />
-        <item itemvalue="Python.ICP 8 part 2" />
-        <item itemvalue="Python.ICP 8 part 1" />
-        <item itemvalue="Python.basicOP" />
-        <item itemvalue="Python.Lab 2 Part 3" />
+        <item itemvalue="Python.sentimentAnalysis" />
+        <item itemvalue="Python.sentimentAnalysisPart3" />
+        <item itemvalue="Python.SentimentAnalysis2" />
+        <item itemvalue="Python.autoencoder" />
+        <item itemvalue="Python.sentimentAnalysisPart1" />
       </list>
     </recent_temporary>
   </component>
@@ -267,14 +309,14 @@
     <frame x="-6" y="-6" width="1613" height="873" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17041801" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22700964" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="R Packages" order="3" />
       <window_info anchor="right" id="R Graphics" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50032157" side_tool="true" weight="0.36827958" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.19035369" side_tool="true" visible="true" weight="0.75537634" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3298153" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49967846" visible="true" weight="0.20698924" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.8096463" visible="true" weight="0.75537634" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3293011" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -285,18 +327,18 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3293011" />
     </layout>
     <layout-to-restore>
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.3298153" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32990354" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="R Graphics" order="3" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.3298153" />
+      <window_info anchor="right" id="R Graphics" order="3" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49967846" visible="true" weight="0.36827958" />
       <window_info anchor="right" id="R Packages" order="4" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -316,7 +358,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url />
+          <url>file://$PROJECT_DIR$/Python Lesson7/Python_Lesson7/ICP 7.py</url>
           <line>59</line>
         </line-breakpoint>
       </breakpoints>
@@ -331,85 +373,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ICP 5/classification/knn.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ICP 5/classification/ClusterusingScikit.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ICP 4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="850">
-          <caret line="58" column="57" selection-start-line="58" selection-start-column="57" selection-end-line="58" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/iris.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2244">
-          <caret line="132" column="28" selection-start-line="132" selection-start-column="28" selection-end-line="132" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python_Lesson4/Python_Lesson4/Irisdataset.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" selection-start-line="7" selection-end-line="10" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ICP 4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="986">
-          <caret line="58" column="57" lean-forward="true" selection-start-line="58" selection-start-column="57" selection-end-line="58" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/iris.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2244">
-          <caret line="132" column="28" selection-start-line="132" selection-start-column="28" selection-end-line="132" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python_Lesson4/Python_Lesson4/Irisdataset.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" selection-start-line="7" selection-end-line="10" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python_Lesson4/Python_Lesson4/Irisdataset.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="7" selection-start-line="7" selection-end-line="10" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/iris.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28">
-          <caret line="132" column="28" lean-forward="true" selection-start-line="132" selection-start-column="28" selection-end-line="132" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ICP 4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ICP 5/.idea/misc.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ICP 5/classification/train.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/ICP 5/classification/svm.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -593,9 +556,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="546">
           <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -603,9 +563,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="441">
           <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -613,19 +570,95 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="21">
           <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ICP 9/DeepLearning_Lesson2/regression-keras.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="93" column="44" selection-start-line="93" selection-start-column="33" selection-end-line="93" selection-end-column="44" />
+        <state>
+          <caret selection-end-line="103" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ICP 9/DeepLearning_Lesson2/ICP 9.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="105" selection-start-line="105" selection-end-line="105" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson 4/DeepLearning_Lesson4/image_classification.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-148">
+          <caret line="50" column="10" selection-start-line="50" selection-start-column="10" selection-end-line="50" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab 3and 4/lstm_sentiment.csv" />
+    <entry file="file://$PROJECT_DIR$/Lab 3and 4/train.csv" />
+    <entry file="file://$PROJECT_DIR$/Lab 3and 4/Lab 3.py" />
+    <entry file="file://$PROJECT_DIR$/../../../../Public/deeplearningclass/Lib/site-packages/tensorboard/main.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab 3and 4/sentiment_kernel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="42" column="20" selection-start-line="42" selection-start-column="14" selection-end-line="42" selection-end-column="20" />
+          <folding>
+            <element signature="e#1#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DL ICP 6/DeepLearning_SourceCode6/DeepLearning_SourceCode6/autoencoder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1869">
+          <caret line="89" selection-start-line="89" selection-end-line="89" />
           <folding>
             <element signature="e#0#37#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DL ICP 5/DeepLearning_SourceCode5/DeepLearning_SourceCode5/sentimentAnalysisPart1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="41" column="27" selection-start-line="41" selection-start-column="27" selection-end-line="41" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DL ICP 5/DeepLearning_SourceCode5/DeepLearning_SourceCode5/SentimentAnalysis2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="60" selection-start-line="60" selection-end-line="60" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DL ICP 5/DeepLearning_SourceCode5/DeepLearning_SourceCode5/spam.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-441" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DL ICP 5/DeepLearning_SourceCode5/DeepLearning_SourceCode5/sentimentAnalysisPart3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DL ICP 5/DeepLearning_SourceCode5/DeepLearning_SourceCode5/sentimentAnalysis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" selection-start-column="1" selection-end-column="1" />
         </state>
       </provider>
     </entry>
